@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32505611/README.md)
 # Hi, I'm Solomon Melamed 👋
 
 ## Monitoring & Observability Leader
@@ -14,6 +13,9 @@ My work connects technical monitoring with business service health—turning inf
 - Built enterprise monitoring systems from the ground up for complex, mission-critical production environments.
 - Monitor mission-critical electronic monitoring platforms used by justice and public-safety programs across multiple countries, including home detention programs.
 - Design monitoring and controls that validate the end-to-end delivery and processing of device-generated events and notifications, helping ensure that critical alerts are received and acted upon.
+- Develop custom monitoring probes and integrations when standard vendor-provided probes do not address specific technical or business requirements.
+- Monitor both IT health and business KPIs, correlating technical and operational data with business processes.
+- Generate actionable business-level alarms when critical business services, transactions, or processes are disrupted or operating outside expected thresholds.
 - Design and develop technical, operational, business, and executive dashboards based on monitored data and customer requirements.
 - Develop proactive and predictive monitoring solutions that identify potential problems and notify the relevant teams before customer services are affected.
 - Design and implement monitoring processes aligned with company business requirements and service objectives.
@@ -49,7 +51,8 @@ Microsoft SQL Server · PostgreSQL · MongoDB · Sybase ASE · Apache Kafka · E
 ### 🚀 What I build
 
 - Automated health checks for enterprise production systems
-- Monitoring integrations and custom probes
+- Custom monitoring probes that provide visibility beyond traditional infrastructure and application monitoring
+- Business-service monitoring solutions that translate business KPIs and process failures into actionable alarms
 - Proactive alerts with meaningful thresholds and deduplication
 - Grafana dashboards for technical and business stakeholders
 - Monitoring solutions for Kubernetes, databases, APIs, middleware, and distributed systems
