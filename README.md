@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32505047/README.md)
+[README.md](https://github.com/user-attachments/files/32505611/README.md)
 # Hi, I'm Solomon Melamed 👋
 
 ## Monitoring & Observability Leader
@@ -62,6 +62,19 @@ Microsoft SQL Server · PostgreSQL · MongoDB · Sybase ASE · Apache Kafka · E
 - [Broadcom Auto Install](https://github.com/solomon-melamed-monitoring/broadcom_auto_install) — automation for Broadcom monitoring components
 - [Kafka with Docker Compose](https://github.com/solomon-melamed-monitoring/How-to-setup-Kafka-using-docker-compose) — Kafka deployment example using Docker Compose
 - [Python LDAP Connect](https://github.com/solomon-melamed-monitoring/Python-LDAP-Connect) — Python integration with LDAP/Active Directory
+
+### 📺 Previous Leadership Experience — yes
+
+At yes, one of Israel's leading television providers, I served in monitoring, enterprise services, and IT asset management leadership roles.
+
+- Architected and built a Business Service Management (BSM) and enterprise monitoring platform from the ground up.
+- Translated business services and operational requirements into monitoring processes, controls, dashboards, and actionable alerts.
+- Worked closely with infrastructure, development, information systems, SAP, Billing, and external service-provider teams.
+- Contributed to the establishment of the company's Network Operations Center (NOC), including monitoring workflows, operational procedures, and escalation processes.
+- Established systems and processes for IT asset and knowledge management across the IT division.
+- Managed a combined team of company employees and contractor personnel while coordinating activities with multiple suppliers.
+- Defined, documented, and implemented operational and management procedures.
+- Led and coordinated complex cross-functional projects involving internal teams, contractors, and technology vendors.
 
 ### 🎯 Current focus
 
