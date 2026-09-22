@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/32505047/README.md)
 # Hi, I'm Solomon Melamed 👋
 
 ## Monitoring & Observability Leader
@@ -6,16 +7,18 @@ I design and develop proactive monitoring, automation, analytics, and business-v
 
 My work connects technical monitoring with business service health—turning infrastructure, application, database, and operational data into actionable alerts, clear dashboards, and better decisions.
 
-
 ### 🌍 Professional Impact
 
 - Architected, implemented, and continue to manage a centralized monitoring and operations platform supporting data centers across more than 65 countries.
 - Designed and established a Disaster Recovery (DR) environment to ensure monitoring continuity and service availability in the event of a primary-site failure.
 - Built enterprise monitoring systems from the ground up for complex, mission-critical production environments.
+- Monitor mission-critical electronic monitoring platforms used by justice and public-safety programs across multiple countries, including home detention programs.
+- Design monitoring and controls that validate the end-to-end delivery and processing of device-generated events and notifications, helping ensure that critical alerts are received and acted upon.
 - Design and develop technical, operational, business, and executive dashboards based on monitored data and customer requirements.
 - Develop proactive and predictive monitoring solutions that identify potential problems and notify the relevant teams before customer services are affected.
 - Design and implement monitoring processes aligned with company business requirements and service objectives.
 - Integrate monitoring platforms with complex business applications, infrastructure, databases, APIs, and operational processes.
+
 ### 🔭 Areas of expertise
 
 - Monitoring & Observability architecture
@@ -51,6 +54,7 @@ Microsoft SQL Server · PostgreSQL · MongoDB · Sybase ASE · Apache Kafka · E
 - Grafana dashboards for technical and business stakeholders
 - Monitoring solutions for Kubernetes, databases, APIs, middleware, and distributed systems
 - Multi-site MAIN/DR service-health and availability views
+- Disaster Recovery environments that preserve monitoring continuity during primary-site failures
 
 ### 📌 Featured work
 
