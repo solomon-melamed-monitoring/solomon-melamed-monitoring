@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32503012/README.md)
 # Hi, I'm Solomon Melamed 👋
 
 ## Monitoring & Observability Leader
@@ -7,6 +6,15 @@ I design and develop proactive monitoring, automation, analytics, and business-v
 
 My work connects technical monitoring with business service health—turning infrastructure, application, database, and operational data into actionable alerts, clear dashboards, and better decisions.
 
+
+### 🌍 Professional Impact
+
+- Lead the implementation, management, and ongoing operation of a centralized monitoring and operations center supporting data centers across more than 65 countries.
+- Built enterprise monitoring systems from the ground up for complex, mission-critical production environments.
+- Design and develop technical, operational, business, and executive dashboards based on monitored data and customer requirements.
+- Develop proactive and predictive monitoring solutions that identify potential problems and notify the relevant teams before customer services are affected.
+- Design and implement monitoring processes aligned with company business requirements and service objectives.
+- Integrate monitoring platforms with complex business applications, infrastructure, databases, APIs, and operational processes.
 ### 🔭 Areas of expertise
 
 - Monitoring & Observability architecture
