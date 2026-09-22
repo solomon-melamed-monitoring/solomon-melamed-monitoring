@@ -9,7 +9,8 @@ My work connects technical monitoring with business service health—turning inf
 
 ### 🌍 Professional Impact
 
-- Lead the implementation, management, and ongoing operation of a centralized monitoring and operations center supporting data centers across more than 65 countries.
+- Architected, implemented, and continue to manage a centralized monitoring and operations platform supporting data centers across more than 65 countries.
+- Designed and established a Disaster Recovery (DR) environment to ensure monitoring continuity and service availability in the event of a primary-site failure.
 - Built enterprise monitoring systems from the ground up for complex, mission-critical production environments.
 - Design and develop technical, operational, business, and executive dashboards based on monitored data and customer requirements.
 - Develop proactive and predictive monitoring solutions that identify potential problems and notify the relevant teams before customer services are affected.
